@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capsgoatplates.co.uk/sitemap.xml
